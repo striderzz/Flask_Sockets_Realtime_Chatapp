@@ -4,6 +4,8 @@ A real-time chat room web application built with **Flask** and **Flask-SocketIO*
 Users can create or join chat rooms using unique room codes and exchange messages instantly without refreshing the page.
 
 ---
+<img width="1880" height="1175" alt="Screenshot (604)" src="https://github.com/user-attachments/assets/5d2ea887-2d53-45dd-8e27-a36413566c6a" />
+
 
 ## What is Flask?
 
